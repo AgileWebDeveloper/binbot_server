@@ -1,2 +1,2 @@
-# binbot_server
+# my_trading_server
 binary_com_server_laravel
